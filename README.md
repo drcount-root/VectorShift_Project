@@ -11,7 +11,7 @@ This project is a technical assessment implementation that recreates core functi
 
 ## Demo Video
 
-<!-- [Watch the Walkthrough](https://youtu.be/vURcGmZQdWk) -->
+[Watch the Walkthrough](https://www.loom.com/share/ef12121e21bd49219c661b87a76181d0?sid=7d0892c8-8504-41e9-82ec-6141f30c9542)
 
 ## Key Features
 
