@@ -55,7 +55,7 @@ export const HamburgerMenu = () => {
               id="edge-type-mobile"
               checked={isCustomEdge}
               onCheckedChange={toggleEdgeType}
-              className="data-[state=checked]:bg-gray-800"
+              className="data-[state=checked]:bg-gray-600"
             />
           </div>
           <div className="flex items-center justify-between">
@@ -70,7 +70,7 @@ export const HamburgerMenu = () => {
               id="edge-animation-mobile"
               checked={isAnimated}
               onCheckedChange={toggleAnimation}
-              className="data-[state=checked]:bg-gray-800"
+              className="data-[state=checked]:bg-gray-600"
             />
           </div>
 

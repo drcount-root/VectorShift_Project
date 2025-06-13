@@ -44,7 +44,7 @@ export default function PipelineStats() {
     <AlertDialog open={isDialogOpen} onOpenChange={setDialogOpen}>
       <AlertDialogContent className="max-w-3xl alertDialog">
         <AlertDialogHeader className="relative">
-          <AlertDialogTitle className="text-2xl font-bold text-indigo-700">
+          <AlertDialogTitle className="text-2xl font-bold text-gray-700">
             Pipeline Validation Results
           </AlertDialogTitle>
           <Button

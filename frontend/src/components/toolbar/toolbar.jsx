@@ -25,7 +25,7 @@ export const PipelineToolbar = () => {
     <Card className="bg-card rounded-b-none py-3 px-4 border-0">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-6">
-          <div className="flex-shrink-0 w-16 h-16 text-white flex justify-center items-center font-semibold bg-gray-800 text-4xl rounded-lg">
+          <div className="flex-shrink-0 w-16 h-16 text-white flex justify-center items-center font-semibold bg-gray-600 text-4xl rounded-lg">
             <span>VS</span>
           </div>
 
@@ -50,7 +50,7 @@ export const PipelineToolbar = () => {
                 id="edge-type"
                 checked={isCustomEdge}
                 onCheckedChange={toggleEdgeType}
-                className="data-[state=checked]:bg-gray-800"
+                className="data-[state=checked]:bg-gray-600"
               />
               <Label
                 htmlFor="edge-type"
@@ -64,7 +64,7 @@ export const PipelineToolbar = () => {
                 id="edge-animation"
                 checked={isAnimated}
                 onCheckedChange={toggleAnimation}
-                className="data-[state=checked]:bg-gray-800"
+                className="data-[state=checked]:bg-gray-600"
               />
               <Label
                 htmlFor="edge-animation"

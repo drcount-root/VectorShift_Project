@@ -34,7 +34,7 @@ export const SubmitButton = ({ className }) => {
 
   return (
     <Button
-      className={cn("text-sm h-16 w-16 bg-gray-800", className)}
+      className={cn("text-sm h-16 w-16 bg-gray-600", className)}
       onClick={handleSubmit}
       disabled={isLoading}
     >

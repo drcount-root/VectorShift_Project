@@ -6,11 +6,11 @@ This project is a technical assessment implementation that recreates core functi
 
 **Frontend:** [Live Site URL](https://vectorshift-task.vercel.app/)
 
-**Code Repo:** [Repository URL](https://github.com/RutamBhagat/vectorshift_task)
+**Code Repo:** [Repository URL](https://github.com/drcount-root/VectorShift_Project)
 
 ## Demo Video
 
-[Watch the Walkthrough](https://youtu.be/vURcGmZQdWk)
+<!-- [Watch the Walkthrough](https://youtu.be/vURcGmZQdWk) -->
 
 ## Key Features
 
@@ -66,7 +66,7 @@ Follow these steps to run the project locally.
 
 1. **Clone and Install**
 ```bash
-git clone https://github.com/RutamBhagat/vectorshift_task
+git clone https://github.com/drcount-root/VectorShift_Project
 cd frontend
 cp .env.example .env
 npm install
@@ -137,9 +137,8 @@ The implementation successfully meets all assessment requirements while maintain
 
 # Screenshots
 
-![0](https://github.com/user-attachments/assets/ea8464d2-580f-4a19-a263-504f148d93c7)
-![1](https://github.com/user-attachments/assets/30c1533d-6029-462b-a80f-4c679a640d2c)
-![2](https://github.com/user-attachments/assets/3de071a6-b1f6-4d14-8a10-9bc084b62e23)
-![3](https://github.com/user-attachments/assets/2239d747-ece2-453c-b696-68f283cc4551)
-![4](https://github.com/user-attachments/assets/ca0cf29d-9c7c-48f0-82f2-832eba6c31e1)
-![5](https://github.com/user-attachments/assets/5430c311-e2b7-46fb-8271-8167ce05db25)
+![0](https://github.com/user-attachments/assets/fb059c98-545a-4552-ac8f-9a56fe62800b)
+![1](https://github.com/user-attachments/assets/93133186-ab30-449a-a07f-7b0699e19415)
+![2](https://github.com/user-attachments/assets/920afd4d-dfd3-4931-bf43-c4b3e170046f)
+![3](https://github.com/user-attachments/assets/6f7d83aa-a3a0-4e95-adc1-96169dbdc288)
+![4](https://github.com/user-attachments/assets/86194e78-9e42-4968-84e7-146a691db318)

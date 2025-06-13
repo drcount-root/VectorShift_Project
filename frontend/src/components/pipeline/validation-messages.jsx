@@ -5,7 +5,7 @@ export function ValidationMessages({ title, messages }) {
   if (messages.length === 0) return null;
 
   return (
-    <Card className="bg-white border-indigo-100">
+    <Card className="bg-white border-gray-100">
       <CardHeader>
         <CardTitle className="text-lg font-semibold text-gray-900">
           {title}
