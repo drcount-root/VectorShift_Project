@@ -4,7 +4,8 @@
 
 This project is a technical assessment implementation that recreates core functionalities of VectorShift's main application. The focus was on building a node-based workflow builder with features like node abstraction, dynamic styling, and backend integration for pipeline validation. The implementation showcases modern web development practices and attention to user experience.
 
-**Frontend:** [Live Site URL](https://vectorshift-task.vercel.app/)
+**Frontend:** [Live Site URL](https://vector-shift-project-fe.vercel.app/)
+**Backend:** [Live URL](https://vector-shift-project-be.vercel.app/)
 
 **Code Repo:** [Repository URL](https://github.com/drcount-root/VectorShift_Project)
 
